@@ -1,0 +1,61 @@
+
+--QUEUE IMPLEMENTATION USING LINKED LIST--
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+1
+
+ Enter the element to insertedinto the queue :
+14
+
+--QUEUE IMPLEMENTATION USING LINKED LIST--
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+1
+
+ Enter the element to insertedinto the queue :
+32
+
+--QUEUE IMPLEMENTATION USING LINKED LIST--
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+3
+14->32->
+--QUEUE IMPLEMENTATION USING LINKED LIST--
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+2
+
+ Element deleted is 14
+--QUEUE IMPLEMENTATION USING LINKED LIST--
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+3
+32->
+--QUEUE IMPLEMENTATION USING LINKED LIST--
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+4
